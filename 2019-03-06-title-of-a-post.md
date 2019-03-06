@@ -2,4 +2,4 @@
 layout: post
 title: Test
 ---
-This is testing a content.
+白日依山盡，黃河入海流。
