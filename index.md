@@ -1,4 +1,4 @@
-## My Blog
+# My Blog
 
  [Lazy Tea Time](https://lazyteatime.like.community/)
  
