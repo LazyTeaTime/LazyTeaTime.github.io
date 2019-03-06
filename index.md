@@ -1,6 +1,6 @@
 # My Blog
 
- [Lazy Tea Time](https://lazyteatime.like.community/)
+ [Lazy Tea Time](https://lazyteatime.like.community/) is a place where I write various of stories.
  
 ## Welcome to GitHub Pages
 
