@@ -1,5 +1,3 @@
-<article>
-  
 # My Blog
 
 [![Image](https://raw.githubusercontent.com/LazyTeaTime/LazyTeaTime.github.io/master/Photo/Main_Page_Photo.png)](https://lazyteatime.like.community/)
