@@ -1,3 +1,5 @@
+<article>
+  
 # My Blog
 
 [![Image](https://raw.githubusercontent.com/LazyTeaTime/LazyTeaTime.github.io/master/Photo/Main_Page_Photo.png)](https://lazyteatime.like.community/)
@@ -16,4 +18,8 @@
   
 * * *
 
-  {% if site.disqus.shortname %}{% include disqus_comments.html %}{% endif %}
+</article>
+
+{% if site.disqus.shortname %}
+  {% include disqus_comments.html %}
+{% endif %}
