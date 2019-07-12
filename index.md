@@ -10,7 +10,7 @@
 
 * * *
 
-# Like Button
+# LikeCoin Button
 
   <iframe class="lc-margin-top-64 lc-margin-bottom-32 lc-mobile" height="250px" width="350px" data-v-b66e9a5a="" frameborder="0" src="https://button.like.co/in/embed/lazy_tea_time/button?referrer=LazyTeaTime.github.io&amp;type=wp"> </iframe>
   
