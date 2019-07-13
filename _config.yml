@@ -1,4 +1,8 @@
 theme: jekyll-theme-architect
+
+# social settings
+facebook_url: https://www.facebook.com/LazyTeaTime/
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
