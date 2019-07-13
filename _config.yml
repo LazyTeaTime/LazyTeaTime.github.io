@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+theme: forty-jekyll-theme
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
